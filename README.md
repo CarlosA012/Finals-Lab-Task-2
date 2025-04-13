@@ -6,10 +6,10 @@ table. Identify the primary and foreign keys and ensure proper representation of
 # Query Statements
 
 ## 1st is create student table
-![image alt]()
+![image alt](https://github.com/CarlosA012/Finals-Lab-Task-2/blob/c98dc36b7a2c115acca17cb7a0179d610d701835/images/create%20student%20table%20f2.png)
 
 ## 2nd is create assignment table
-![image alt]()
+![image alt](https://github.com/CarlosA012/Finals-Lab-Task-2/blob/c98dc36b7a2c115acca17cb7a0179d610d701835/images/create%20assignment%20table%20f2.png)
 
 ## 3rd is create submission table
-![image alt]()
+![image alt](https://github.com/CarlosA012/Finals-Lab-Task-2/blob/c98dc36b7a2c115acca17cb7a0179d610d701835/images/create%20submission%20table%20f2.png)
