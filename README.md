@@ -25,3 +25,8 @@ table. Identify the primary and foreign keys and ensure proper representation of
 
 ## submission table structure
 ![image alt](https://github.com/CarlosA012/Finals-Lab-Task-2/blob/8a05b1d9531741664e2e72cce419a0f5f81ced2a/images/submission%20table%20structure.png)
+
+
+# ERD
+
+![image alt]()
