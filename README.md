@@ -29,4 +29,4 @@ table. Identify the primary and foreign keys and ensure proper representation of
 
 # ERD
 
-![image alt]()
+![image alt](https://github.com/CarlosA012/Finals-Lab-Task-2/blob/55589401224d77de6acca0bacdb5d775b4c0bc0a/images/task%202%20erd.png)
